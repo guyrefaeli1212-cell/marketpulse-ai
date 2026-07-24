@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+matplotlib
+yfinance
+pandas
+flask
